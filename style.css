@@ -1,0 +1,16 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  background-color: #00a8e1;
+}
+.light{
+  background-color: blue;
+  color: white;
+}
+header{
+  text-align: center;
+  
+}
